@@ -1,9 +1,9 @@
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
+    "serverURL": "https://frozen-basin-17865.herokuapp.com/parse",
+    "appId": "cristiano.spolverato",
+    "masterKey": "myMasterKey",
+    "appName": "MyApp",
     "iconName": ""
   }],
   "iconsFolder": "icons"
